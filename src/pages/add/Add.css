@@ -1,0 +1,27 @@
+.add-content {
+  padding: 30px 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.add-content .input-wrapper input {
+  width: 100%;
+  background-color: var(--primary);
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  color: var(--white);
+  font-size: 1.25rem;
+  margin-top: 20px;
+}
+
+.add-content .input-wrapper input::placeholder {
+  color: var(--white);
+}
+
+.results {
+  padding: 0;
+  margin: 0;
+  margin-top: 20px;
+}
+

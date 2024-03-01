@@ -1,0 +1,17 @@
+.home .movie-img {
+  width: 300px;
+}
+
+.home h2 {
+  font-size: 3rem;
+}
+
+.home p {
+  color: #c4c4c4;
+}
+
+.home .btn {
+  text-decoration: none;
+  color: var(--white);
+  margin-top: 20px;
+}
